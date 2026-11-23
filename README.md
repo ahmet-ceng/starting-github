@@ -1,5 +1,3 @@
-# starting_github
-github öğrenirken oluşturulan ilk proje
 # Merhaba Github
 Bu depo, Github'ı öğrenirken oluşturduğum ilk depo.
 
